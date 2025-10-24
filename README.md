@@ -1,5 +1,5 @@
 # 🏨 Tourism Accommodation Analysis (2019–2024)
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](dataset/tourism_dashboard.png)
 This project explores the recovery of tourism across European countries from 2019 to 2024, with a focus on accommodation trends and traveler behavior. Using real-world data, I built an interactive Power BI dashboard to visualize key metrics such as nights spent, year-over-year growth, and country-level comparisons.
 
 ## 📊 Dashboard Highlights
